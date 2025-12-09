@@ -20,15 +20,7 @@ How the Automation Works
 
 It updates by itself!
 
-Main Files in This Project
-File Name	Purpose
-01_scrape.R	Collects data from IMDb + Box Office Mojo
-02_clean.R	Cleans and appends new information
-03_visualize.R	Creates a graph each run
-movies.yml	The file that schedules automation
-movies_master.csv	The cumulative dataset
-movie_dashboard.png	Automatic visualization
-What I Learned
+What I Learned:
 
 How to scrape using R
 How to clean and store real data
