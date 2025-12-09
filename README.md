@@ -18,7 +18,7 @@ How the Automation Works
 - Builds a new visual chart
 - Saves all changes in the repository
 
-I do not have to run anything manually. It updates by itself.
+It updates by itself!
 
 Main Files in This Project
 File Name	Purpose
