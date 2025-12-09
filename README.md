@@ -23,10 +23,9 @@ It updates by itself!
 What I Learned:
 
 How to scrape using R
-How to clean and store real data
+How to clean and store data
 How to build a recurring automatic workflow
 Learned more about navigating github
 
-How to visualize changes over time
-
 The hardest part was that Rotten Tomatoes could not be scraped. I switched to Box Office Mojo and my pipeline now runs correctly every day.
+Navigating the errors, and having to have patience for it was difficult as well
